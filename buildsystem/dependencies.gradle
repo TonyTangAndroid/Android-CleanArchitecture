@@ -25,7 +25,7 @@ ext {
   arrowVersion = '1.0.0'
 
   //Testing
-  robolectricVersion = '3.1.1'
+  robolectricVersion = '4.4'
   jUnitVersion = '4.12'
   assertJVersion = '1.7.1'
   mockitoVersion = '1.9.5'
