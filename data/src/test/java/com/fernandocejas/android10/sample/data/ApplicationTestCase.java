@@ -30,7 +30,7 @@ import org.robolectric.annotation.Config;
  * Inherit from this class to create a test.
  */
 @RunWith(RobolectricTestRunner.class)
-@Config(application = ApplicationStub.class, sdk = 21)
+@Config(application = ApplicationStub.class, sdk = 28)
 public abstract class ApplicationTestCase {
 
   @Rule public TestRule injectMocksRule = (base, description) -> {
